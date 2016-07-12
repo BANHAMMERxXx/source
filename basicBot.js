@@ -309,9 +309,9 @@
             songstats: true,
             commandLiteral: "!",
             blacklists: {
-                NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
-                OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
-                BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
+                NSFW: "https://rawgit.com/BANHAMMERxXx/custom/master/blacklists/NSFWlist.json",
+                OP: "https://rawgit.com/BANHAMMERxXx/custom/master/blacklists/OPlist.json",
+                BANNED: "https://rawgit.com/BANHAMMERxXx/custom/master/blacklists/BANNED.json"
             }
         },
         room: {
